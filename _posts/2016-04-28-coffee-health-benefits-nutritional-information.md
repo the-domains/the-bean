@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.medicalnewstoday.com/articles/270202.php'
 title: 'Coffee: Health Benefits, Nutritional Information'
-datePublished: '2016-04-28T00:26:14.815Z'
-dateModified: '2016-04-28T00:26:14.742Z'
+datePublished: '2016-04-28T00:26:16.094Z'
+dateModified: '2016-04-28T00:26:15.965Z'
 starred: false
 sourcePath: _posts/2016-04-28-coffee-health-benefits-nutritional-information.md
 published: true
