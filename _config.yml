@@ -1,0 +1,14 @@
+layout_spectrum: 0.6966694323346019
+typography_spectrum: 0.7568118604831398
+color:
+  brandStrength: 0.3933825339190662
+  lightness: 0.6978374649770558
+  saturation: 0.9867328014224768
+  rhythmicContrast: 0.8410867361817509
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: The Bean
