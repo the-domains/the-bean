@@ -18,8 +18,8 @@ app_links:
     app_store_id: '328407587'
 isBasedOnUrl: 'https://www.flickr.com/photos/lattegarcia/5241715900/'
 title: Moka Tulip
-datePublished: '2016-04-28T00:26:15.662Z'
-dateModified: '2016-04-28T00:26:15.571Z'
+datePublished: '2016-04-28T00:26:16.266Z'
+dateModified: '2016-04-28T00:26:16.027Z'
 description: ''
 starred: false
 sourcePath: _posts/2016-04-28-moka-tulip.md
