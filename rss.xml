@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Bean]]></title>
+        <description><![CDATA[The Bean]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 00:13:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photographer Takes Stunning Surreal Photos With An Old $50 Film Camera]]></title>
+            <description><![CDATA[<article><h1>Photographer Takes Stunning Surreal Photos With An Old $50 Film Camera</h1><p>Oleg Oprisco is a brilliantly talented photographer from Lviv, Ukraine, who creates stunning surreal images of elegant women in fairy-tale or dream-like settings. There's one significant difference, however, that sets him apart from other artists who create similar work - Oprisco shoots using old-school film photography.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd947cf0ee42f5759c42e89a1de3aeb845e7c3f2.jpg"></article>]]></description>
+            <link>http://www.boredpanda.com/surreal-film-photography-oleg-oprisco/</link>
+            <guid isPermaLink="false">0b7f0201-36a0-4de7-830d-bbcfe177322e</guid>
+            <pubDate>Thu, 28 Apr 2016 00:13:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
