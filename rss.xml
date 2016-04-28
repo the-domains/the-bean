@@ -4,7 +4,7 @@
         <description><![CDATA[The Bean]]></description>
         <link>https://thegrid.ai/the-bean/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 00:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 00:24:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bean/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Moka Tulip]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.medicalnewstoday.com/articles/270202.php</link>
             <guid isPermaLink="false">157d896f-c7a4-4fca-b615-7df73922b986</guid>
             <pubDate>Thu, 28 Apr 2016 00:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Headspace App Launches Personal Meditative Pods]]></title>
+            <description><![CDATA[<article><h1>Headspace App Launches Personal Meditative Pods</h1><p>More than five million people globally have used guided meditation service Headspace. There's an invaluable ease to using their service (especially the free app) and it has opened the doors of meditation to many. Now, the acclaimed team behind the app have produced a different sort of tool for meditation: a private nature-inspired pod made in collaboration with architect duo Oyler Wu.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ec8782033d6ec0185688a89ac59831c73a6e4a0.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/headspace-app-meditative-pods</link>
+            <guid isPermaLink="false">6121883f-a452-48e4-b27f-ceb348f2bb40</guid>
+            <pubDate>Thu, 28 Apr 2016 00:13:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
