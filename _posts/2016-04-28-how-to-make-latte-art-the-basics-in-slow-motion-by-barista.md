@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=jYq1pHJYQmw&noredirect=1'
 title: 'How to make Latte Art: The Basics in Slow Motion by Barista Dritan Alsela'
-datePublished: '2016-04-28T00:24:35.926Z'
-dateModified: '2016-04-28T00:24:35.836Z'
+datePublished: '2016-04-28T00:26:15.411Z'
+dateModified: '2016-04-28T00:26:15.293Z'
 starred: false
 sourcePath: _posts/2016-04-28-how-to-make-latte-art-the-basics-in-slow-motion-by-barista.md
 published: true
