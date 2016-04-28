@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ooUAVHJAcyk'
 title: 6 Unique Ways To Drink Coffee
-datePublished: '2016-04-28T00:24:35.820Z'
-dateModified: '2016-04-28T00:24:35.754Z'
+datePublished: '2016-04-28T00:24:36.174Z'
+dateModified: '2016-04-28T00:24:36.084Z'
 starred: false
 sourcePath: _posts/2016-04-28-6-unique-ways-to-drink-coffee.md
 published: true
